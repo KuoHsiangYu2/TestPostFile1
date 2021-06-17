@@ -5,16 +5,16 @@ jQuery('#page4SubmitId').on('click', function() {
     let page3FileObj = jQuery('#page4File')[0];
     formData.append('page4FileObj', page3FileObj.files[0]);
     jQuery.ajax({
-        type : 'POST',
-        url : 'GetFileServlet',
-        processData : false,
-        contentType : false,
-        dataType : 'text',
-        data : formData,
-        success : function(response) {
+        type: 'POST',
+        url: 'GetFileServlet',
+        processData: false,
+        contentType: false,
+        dataType: 'text',
+        data: formData,
+        success: function(response) {
             console.log('response = ', response);
         },
-        error : function(thrownError) {
+        error: function(thrownError) {
             console.log('thrownError = ', thrownError);
         }
     });
