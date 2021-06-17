@@ -13,6 +13,6 @@
 	<br />
 	<br />
 	<input type="button" id="page2SubmitId" value="送出資料" />
-	<script type="text/javascript" src="page2.js"></script>
+	<script type="text/javascript" src="./js/page2.js"></script>
 </body>
 </html>

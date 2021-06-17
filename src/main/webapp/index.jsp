@@ -15,7 +15,7 @@
 			<input type="submit" />
 			<br />
 			<br />
-			<input type="button" id="test1" value="test1" />
+			<input type="button" id="test1" value="test-submit-2" />
 		</form>
 	</div>
 	<script type="text/javascript">

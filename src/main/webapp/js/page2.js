@@ -24,7 +24,7 @@ submitIdObj.addEventListener('click', function() {
     });
 });
 
-/* https://developer.mozilla.org/zh-TW/docs/Web/API/Fetch_API/Using_Fetch */
-/* https://wcc723.github.io/javascript/2017/12/28/javascript-fetch/ */
-/* https://ithelp.ithome.com.tw/articles/10230303 */
-/* https://ithelp.ithome.com.tw/articles/10230214 */
+// https://developer.mozilla.org/zh-TW/docs/Web/API/Fetch_API/Using_Fetch
+// https://wcc723.github.io/javascript/2017/12/28/javascript-fetch/
+// https://ithelp.ithome.com.tw/articles/10230303
+// https://ithelp.ithome.com.tw/articles/10230214
